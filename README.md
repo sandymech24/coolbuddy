@@ -1,0 +1,2 @@
+# coolbuddy
+Always cool buddy
